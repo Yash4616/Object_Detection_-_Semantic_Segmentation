@@ -1,0 +1,17 @@
+# No current file exceeds GitHub's 100MB per-file limit.
+# Largest files found are below 100MB, but the dataset/artifacts are very large in total.
+
+# Large datasets
+/digit_dataset/
+/official_mnistdd_test/
+/data/MNIST/raw/
+
+# Training outputs and checkpoints
+/runs/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Dataset/tool cache files
+*.cache
