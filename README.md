@@ -1,4 +1,4 @@
-# BCO074C — Object Detection & Semantic Segmentation on MNISTDD-RGB
+# Object Detection & Semantic Segmentation on MNISTDD-RGB
 
 ## What this notebook does
 
